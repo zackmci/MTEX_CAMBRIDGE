@@ -18,7 +18,7 @@ CS = {...
 setMTEXpref('xAxisDirection','south');
 setMTEXpref('zAxisDirection','outOfPlane');
 
-%% Specify File Names
+%% Specify File Names -change these --> 
 
 % path to files
 pname = '/Users/giulioisacco/Dropbox (Cambridge University)/Cambridge/EBSD/Zoja/20180524_chromite';
